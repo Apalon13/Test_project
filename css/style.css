@@ -13,12 +13,6 @@
     list-style: none;
 }
 
-.center {
- width: 1750px;
- padding: 10px;
- margin: auto;
-}
-
 .dot {
     box-sizing: content-box;
     flex: 0 1 auto;
